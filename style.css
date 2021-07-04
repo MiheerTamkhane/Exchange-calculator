@@ -25,6 +25,9 @@ h1 {
 p {
   text-align: center;
 }
+main {
+  margin: 1rem;
+}
 
 .currency {
   padding: 30px 0px;
